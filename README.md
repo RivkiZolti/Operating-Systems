@@ -1,4 +1,4 @@
-# OS course projects
+# Operating-Systems course projects
 
 * Ex 1: [**Multi-Level Page Tables Assignment**](https://github.com/RivkiZolti/Operating-Systems/tree/main/Multi%20Level%20Page%20Tables%20Assignment)
 
